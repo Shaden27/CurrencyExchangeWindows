@@ -1,0 +1,8 @@
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Form1.resources
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Properties.Resources.resources
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.GenerateResource.Cache
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+c:\users\test.pragmasysllp\documents\visual studio 2015\Projects\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
